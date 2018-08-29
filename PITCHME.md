@@ -1,10 +1,10 @@
-# Flux 
+# 我的青春代表作 
 
-An application architecture for React
+Presented by 李扬杰
 
 ---
 
-### Flux Design
+## Hello 贵阳院！~
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
