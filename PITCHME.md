@@ -1,6 +1,6 @@
 <h2 style="font-family:'STXinwei';">@color[#e49436](青春)代表作</h2> 
-<p style="font-family:'STXinwei';">Presented by 李扬杰</p>
-@size[0.6em](https://gitpitch.com/YazidLee/YouthRepresentation/master)
+<p style="font-family:'STXinwei';">Presented by @color[#e49436](李扬杰)</p>
+@size[0.4em](https://gitpitch.com/YazidLee/YouthRepresentation/master)
 
 ---
 
