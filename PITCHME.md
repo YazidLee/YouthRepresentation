@@ -1,10 +1,10 @@
-<h2 style="font-family:'STXinwei';">青春代表作</h2> 
+<h2 style="font-family:'STXinwei';">@color[#e49436](青春)代表作</h2> 
 <p style="font-family:'STXinwei';">Presented by 李扬杰</p>
-<div style="font-size: 24px;">https://gitpitch.com/YazidLee/YouthRepresentation/master</div>
+@size[0.6em](https://gitpitch.com/YazidLee/YouthRepresentation/master)
 
 ---
 
-## 入职——Hello 贵阳院！~
+## 入职——Hello贵阳院！~
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
