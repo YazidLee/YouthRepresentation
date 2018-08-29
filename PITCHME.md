@@ -1,7 +1,7 @@
 ---?image=assets/images/youth.jpg&opacity=20
 <h1 style="color:black;">青春代表作</h1> 
 
-@snap(south-east)
+@snap[south-east]
 <h2 style="color:black">Presented by 李扬杰</h2>
 @snapend
 
