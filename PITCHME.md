@@ -1,6 +1,6 @@
 ---?image=assets/images/youth.jpg&opacity=20
 @snap[north]
-<h3 style="color:black;">青春代表作</h3> 
+<h2 style="color:black; font-family:'STXinwei';">青春代表作</h2> 
 @snapend
 
 @snap[south-east]
