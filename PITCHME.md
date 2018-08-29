@@ -1,10 +1,10 @@
 ---?image=assets/images/youth.jpg&opacity=20
 @snap[north]
-<h1 style="color:black;">青春代表作</h1> 
+<h3 style="color:black;">青春代表作</h3> 
 @snapend
 
 @snap[south-east]
-<p style="color:black; font-family:'Hanzipen SC';">Presented by 李扬杰</p>
+<p style="color:black; font-family:'STXinwei';">Presented by 李扬杰</p>
 @snapend
 
 ---
