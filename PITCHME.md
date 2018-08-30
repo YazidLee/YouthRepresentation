@@ -114,9 +114,9 @@
 
 ---
 
-## 生活
+## @fa[tint](生活)
 
-+++
++++?image=assets/images/music.png
 
 ### 音乐
 
