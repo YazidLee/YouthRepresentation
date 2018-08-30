@@ -4,7 +4,7 @@
 <p>@size[0.4em](https://gitpitch.com/YazidLee/YouthRepresentation/master)</p>
 
 ---
-@transition[concave-in fade-out]
+@transition[fade-in concave-out]
 ## @fa[graduation-cap](入职)
 +++
 @snap[north]
