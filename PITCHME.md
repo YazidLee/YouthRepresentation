@@ -127,7 +127,7 @@
 ![音乐](assets/images/youthsociety.jpg)
 @snapend
 @snap[north-east small]
-![音乐](assets/images/我们的太阳.jpg)
+![音乐](assets/images/sun.jpg)
 @snapend
 @snap[north-west small]
 ![音乐](assets/images/cat.png)
