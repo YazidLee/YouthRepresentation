@@ -47,6 +47,31 @@
 - @fa[comments](@color[#e49436]方言)
 @ulend
 
+@snap[east small]
+![迷茫](assets/images/1.jpg)
+@snapend
+@snap[north small]
+![迷茫](assets/images/2.jpg)
+@snapend
+@snap[west small]
+![迷茫](assets/images/3.jpg)
+@snapend
+@snap[south small]
+![迷茫](assets/images/4.jpg)
+@snapend
+@snap[south-west small]
+![迷茫](assets/images/5.jpg)
+@snapend
+@snap[south-east small]
+![迷茫](assets/images/6.jpg)
+@snapend
+@snap[north-east small]
+![迷茫](assets/images/7.jpg)
+@snapend
+@snap[north-west small]
+![迷茫](assets/images/confused.jpg)
+@snapend
+
 +++
 
 ### 过度
