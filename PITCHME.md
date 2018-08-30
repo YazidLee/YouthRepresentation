@@ -5,16 +5,12 @@
 
 ---
 
+---?image=assets/images/whu.jpg$position = left 10%&size=auto 50%
+@snap[north]
 ## @color[#e49436](入职)——Hello，贵阳院！
+@snapend
 
 ![whu](assets/images/whu.jpg)
-@ul 
-
-- ![whu](assets/images/whu.jpg)
-- Stores: Handle State & Logic
-- Views: Render Data via React
-
-@ulend
 
 ---
 
