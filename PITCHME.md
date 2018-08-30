@@ -107,6 +107,7 @@
 +++ 
 
 #### 无人机
+![无人机](assets/images/huaxi3D.jpg)
 
 +++
 
@@ -147,6 +148,12 @@
 <h3>游戏</h3>
 @snapend
 
-+++
++++?image=assets/images/study.png
 
 ### 学习
+
+![books](assets/images/books.png)
+
+---
+
+## Thanks
