@@ -124,7 +124,7 @@
 +++?image=assets/images/dota2.jpg
 
 @snap[north]
-<h3>@size[0.5em](游戏)</h3>
+<h3>游戏</h3>
 @snapend
 
 +++
