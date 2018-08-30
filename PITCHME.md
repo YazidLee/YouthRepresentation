@@ -78,9 +78,8 @@
 
 +++
 
-@size[0.2em](
 @ul
-- 先假设你有一个苹果。
+- @size[0.5em](先假设你有一个苹果。)
 - @fa[apple]
 - 假设有人又给了你另一个苹果。
 - @fa[apple]@fa[apple]
@@ -90,7 +89,7 @@
 - $$\log 	\Pi(N) = (N + \frac{1}{2})\log N - N + A - \int_N^\infty{\frac{B1(x)dx}{x}}$$
 - @color[#e49436](其实，我也不知道怎么缓过来的)
 @ulend
-)
+
 +++
 
 ### 成果
