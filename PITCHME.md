@@ -5,12 +5,12 @@
 
 ---
 
----?image=assets/images/whu.jpg$position = left 10%&size=auto 50%
-@snap[north]
 ## @color[#e49436](入职)——Hello，贵阳院！
+
+@snap[west]
+@css[image-whu](![](assets/images/whu))
 @snapend
 
-![whu](assets/images/whu.jpg)
 
 ---
 
