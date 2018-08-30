@@ -5,7 +5,7 @@
 
 ---
 @snap[north]
-<h2>@color[#e49436](入职)——Hello，贵阳院！</h2>
+<h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
 ![whu](assets/images/whu.png)
