@@ -34,7 +34,7 @@
 
 ---
 
-## @fa[globe-americas](工作)
+## @fa[briefcase](工作)
 
 +++
 
