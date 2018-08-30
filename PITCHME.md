@@ -8,10 +8,10 @@
 <h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
 @snapend
 @snap[west sidebar]
-![whu](assets/images/whu.png)
+![whu](assets/images/whu.jpg)
 @snapend
 @snap[east sidebar]
-![gyy](assets/images/guiyangyuan.png)
+![gyy](assets/images/guiyangyuan.jpg)
 @snapend
 ---
 
