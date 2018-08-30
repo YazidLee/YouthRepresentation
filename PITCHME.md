@@ -42,7 +42,9 @@
 
 ### 迷茫
 @ul
-- @fa[bus](陌生)
+- @fa[bus](@color[#e49436]陌生的环境)
+- @fa[street-view](@color[#e49436]人际关系)
+- @fa[comments](@color[#e49436]方言)
 @ulend
 
 +++
