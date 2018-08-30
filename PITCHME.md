@@ -1,4 +1,5 @@
 ---?image=assets/images/qrcode.png&position=right 10% bottom 10%&size=10% auto
+@transition[fade-out]
 <h1 style="font-family:'STXinwei';">@color[#e49436](青春)代表作</h1> 
 <p style="font-family:'STXinwei';">Presented by @size[1.2em](@color[#e49436](李扬杰))</p>
 <p>@size[0.4em](https://gitpitch.com/YazidLee/YouthRepresentation/master)</p>
