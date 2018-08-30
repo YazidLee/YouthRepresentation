@@ -29,7 +29,7 @@
 @snapend
 @snapend
 @snap[east sidebar]
-![gyy](assets/images/officer.png)
+![gyy](assets/images/officer.jpg)
 @snapend
 
 ---
