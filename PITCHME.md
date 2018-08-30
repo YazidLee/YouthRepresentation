@@ -10,7 +10,7 @@
 @snap[west sidebar]
 ![whu](assets/images/whu.jpg)
 @snap[midpoint]
-@fa[angle-double-right fa-9x]
+@fa[angle-double-right fa-5x]
 @snapend
 @snapend
 @snap[east sidebar]
