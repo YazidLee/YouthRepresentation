@@ -7,10 +7,10 @@
 
 ## @color[#e49436](入职)——Hello，贵阳院！
 @snap[west sidebar]
-![whu](assets/images/whu.jpg)
+![whu](assets/images/whu.png)
 @snapend
-@snap[west sidebar]
-![gyy](assets/images/guiyangyuan.jpg)
+@snap[east sidebar]
+![gyy](assets/images/guiyangyuan.png)
 @snapend
 ---
 
