@@ -120,6 +120,18 @@
 
 ### 音乐
 
+@snap[south-west small]
+![音乐](assets/images/worldend.jpg)
+@snapend
+@snap[south-east small]
+![音乐](assets/images/youthsociety.jpg)
+@snapend
+@snap[north-east small]
+![音乐](assets/images/我们的太阳.jpg)
+@snapend
+@snap[north-west small]
+![音乐](assets/images/cat.png)
+@snapend
 
 +++?image=assets/images/dota2.jpg
 
@@ -129,4 +141,4 @@
 
 +++
 
-### 学习与积累
+### 学习
