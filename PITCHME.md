@@ -34,7 +34,7 @@
 
 ---
 
-## @fa[globe-asia](工作)
+## @fa[globe-americas](工作)
 
 +++
 
