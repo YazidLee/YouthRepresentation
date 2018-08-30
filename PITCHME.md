@@ -97,10 +97,12 @@
 +++
 
 #### 二维GIS应用
+![2DGIS](assets/images/2DGIS1.png)
 
 +++
 
 #### 三维GIS应用
+![3DGIS](assets/images/3DGIS.png)
 
 +++ 
 
@@ -108,7 +110,7 @@
 
 +++
 
-#### 各项活动
+#### 其他
 
 ---
 
