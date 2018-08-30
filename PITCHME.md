@@ -18,6 +18,7 @@
 @snapend
 
 +++
+
 @snap[north]
 <h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
 @snapend
@@ -30,6 +31,7 @@
 @snap[east sidebar]
 ![gyy](assets/images/officer.png)
 @snapend
+
 ---
 
 ## 工作
