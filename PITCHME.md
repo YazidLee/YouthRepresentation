@@ -78,6 +78,7 @@
 
 +++
 
+@size[0.6em](
 @ul
 - 先假设你有一个苹果。
 - @fa[apple]
@@ -89,7 +90,7 @@
 - $$\log 	\Pi(N) = (N + \frac{1}{2})\log N - N + A - \int_N^\infty{\frac{B1(x)dx}{x}}$$
 - @color[#e49436](其实，我也不知道怎么缓过来的)
 @ulend
-
+)
 +++
 
 ### 成果
