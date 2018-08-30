@@ -42,7 +42,7 @@
 
 ### 迷茫
 @ul
-- @fa[frown-open](陌生)
+- @fa[bus](陌生)
 @ulend
 
 +++
