@@ -6,15 +6,12 @@
 ---
 
 ## @color[#e49436](入职)——Hello，贵阳院！
-<div class="left">
+@snap[west sidebar]
 ![whu](assets/images/whu.jpg)
-[codescene.io](https://codescene.io)
-</div>
-<div class="right">
+@snapend
+@snap[west sidebar]
 ![gyy](assets/images/guiyangyuan.jpg)
-[sonarqube.org](https://www.sonarqube.org)
-</div>
-
+@snapend
 ---
 
 ## 工作
