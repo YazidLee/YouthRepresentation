@@ -9,6 +9,9 @@
 @snapend
 @snap[west sidebar]
 ![whu](assets/images/whu.jpg)
+@snap[midpoint]
+@fa[angle-double-right fa-9x]
+@snapend
 @snapend
 @snap[east sidebar]
 ![gyy](assets/images/guiyangyuan.jpg)
