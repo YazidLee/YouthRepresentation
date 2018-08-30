@@ -112,6 +112,9 @@
 
 #### 其他
 
+@fa[python](标准GDB数据合并工具)
+@fa[node](绘制断面Office Add-in工具)
+
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 
 ## @fa[tint](生活)
