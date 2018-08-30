@@ -5,11 +5,15 @@
 
 ---
 
-## 入职——Hello贵阳院！~
+## @color[#e49436](入职)——Hello，贵阳院！
+
+@ul 
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
 - Views: Render Data via React
+
+@ulend
 
 ---
 
