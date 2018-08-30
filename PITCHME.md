@@ -69,7 +69,7 @@
 ![迷茫](assets/images/7.jpg)
 @snapend
 @snap[north-west small]
-![迷茫](assets/images/confused.jpg)
+![迷茫](assets/images/8.jpg)
 @snapend
 
 +++
