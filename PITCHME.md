@@ -112,8 +112,13 @@
 
 #### 其他
 
-@fa[code](标准GDB数据合并工具)<br>
-@fa[code](绘制断面Office Add-in工具)
+@ul
+- @fa[code](标准GDB数据合并工具)<br>
+- @fa[code](绘制断面Office Add-in工具)
+- @fa[volleyball-ball](气排球)
+- @fa[table-tennis](乒乓球(裁判))
+- @fa[ellipsis-v]
+@ulend
 
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 
