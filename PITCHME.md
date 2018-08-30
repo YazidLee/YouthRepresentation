@@ -9,7 +9,7 @@
 
 @ul 
 
-- Dispatcher: Manages Data Flow
+- ![whu](assets/images/whu.jpg)
 - Stores: Handle State & Logic
 - Views: Render Data via React
 
