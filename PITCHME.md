@@ -4,8 +4,9 @@
 <p>@size[0.4em](https://gitpitch.com/YazidLee/YouthRepresentation/master)</p>
 
 ---
-
-## @color[#e49436](入职)——Hello，贵阳院！
+@snap[north]
+<h2>@color[#e49436](入职)——Hello，贵阳院！</h2>
+@snapend
 @snap[west sidebar]
 ![whu](assets/images/whu.png)
 @snapend
