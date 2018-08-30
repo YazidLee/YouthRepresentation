@@ -120,16 +120,16 @@
 
 ### 音乐
 
-@snap[south-west]
+@snap[south-west mid]
 ![音乐](assets/images/worldend.jpg)
 @snapend
-@snap[south-east]
+@snap[south-east mid]
 ![音乐](assets/images/youthsociety.jpg)
 @snapend
-@snap[north-east]
+@snap[north-east mid]
 ![音乐](assets/images/sun.jpg)
 @snapend
-@snap[north-west]
+@snap[north-west mid]
 ![音乐](assets/images/cat.png)
 @snapend
 
