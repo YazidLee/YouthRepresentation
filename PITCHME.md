@@ -16,6 +16,20 @@
 @snap[east sidebar]
 ![gyy](assets/images/guiyangyuan.jpg)
 @snapend
+
++++
+@snap[north]
+<h2>@size[0.5em](@color[#e49436](入职)——Hello，贵阳院！)</h2>
+@snapend
+@snap[west sidebar]
+![whu](assets/images/students.png)
+@snap[midpoint]
+@fa[angle-double-right fa-5x]
+@snapend
+@snapend
+@snap[east sidebar]
+![gyy](assets/images/officer.png)
+@snapend
 ---
 
 ## 工作
