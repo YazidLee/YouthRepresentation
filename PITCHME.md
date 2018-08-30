@@ -42,6 +42,8 @@
 
 ### 迷茫
 @ul
+- @fa[frown-open](陌生)
+@ulend
 
 +++
 
