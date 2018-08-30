@@ -1,4 +1,4 @@
 logo: assets/images/logo.png
 theme: night
 footnote: "测绘地理信息院-工程GIS中心"
-theme-override: assets/css/PITCHEME.css
+theme-override: assets/css/PITCHME.css
