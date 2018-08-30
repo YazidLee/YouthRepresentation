@@ -7,6 +7,7 @@
 
 ## @color[#e49436](入职)——Hello，贵阳院！
 
+![whu](assets/images/whu.jpg)
 @ul 
 
 - ![whu](assets/images/whu.jpg)
