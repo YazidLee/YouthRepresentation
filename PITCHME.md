@@ -148,7 +148,7 @@
 <h3>游戏</h3>
 @snapend
 
-+++?image=assets/images/study.png
++++?image=assets/images/css.jpg
 
 ### 学习
 
